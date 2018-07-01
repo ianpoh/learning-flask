@@ -3,7 +3,6 @@ Jinja2==2.10
 Werkzeug==0.14.1
 certifi==2018.1.18
 chardet==3.0.4
-distro-info==0.18
 gunicorn==19.8.1
 requests==2.18.4
 MarkupSafe==1.0
