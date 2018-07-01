@@ -4,7 +4,6 @@ MarkupSafe==1.0
 gunicorn==19.8.1
 Werkzeug==0.14.1
 itsdangerous==0.24
-python-apt==1.6.1
 requests==2.18.4
 urllib3==1.22
 virtualenv==16.0.0
